@@ -118,7 +118,7 @@ var InputTextMap = map[string]map[string]interface{}{
 	},
 	"url": {
 		"keyword": []string{"url", "site", "web", "blog", "link"},
-		"value":   "https://crawlergo.nice.cn/",
+		"value":   "http://crawlergo.nice.cn/",
 	},
 	"date": {
 		"keyword": []string{"date", "time", "year", "now"},
